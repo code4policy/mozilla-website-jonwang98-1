@@ -38,6 +38,12 @@ img {
   max-width: 100%;
 }
 
+/* making quotes red */
 .quote{
   color: red;
+}
+
+/* making firstquote have a border */
+#firstquote{
+  border: 5px solid black;
 }
